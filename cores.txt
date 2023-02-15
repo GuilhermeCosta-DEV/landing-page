@@ -1,0 +1,6 @@
+#000000-preto
+#FFFFFF-branco
+#333333-Cinza escuro
+#666666-cinza-claro
+#EAEAEA-Cinza quase branco
+#2690D4-azul
